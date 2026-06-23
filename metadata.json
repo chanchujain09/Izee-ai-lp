@@ -1,0 +1,6 @@
+{
+  "name": "AI-First MBA Landing Page",
+  "description": "An original AI MBA landing page section that feels premium and modern, showcasing Bangalore's AI-First MBA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
